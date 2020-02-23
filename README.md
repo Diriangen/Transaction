@@ -8,7 +8,7 @@ Maven
 
 Instructions
 1. Download or clone the project from this url https://github.com/Diriangen/Transaction
-2. Import your local project in your Eclipse IDE like General => projects from folder or archive.
+2. Import your local project, from transations folder in your Eclipse IDE like General => projects from folder or archive.
 3. The IDE must update all dependencies by maven.
 4. Right click in your import project and select run as java aplication then select SpringBootTransactionAplication to start the aplication.
 5. Open your api client to test the http api rest methods, (Postman in my case).
