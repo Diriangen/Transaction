@@ -3,7 +3,7 @@ Rest Api Transaction Simulation
 
 The project has been made with tne next framework:
 Spring Boot
-And the next plugin development:
+and the next plugin development:
 Maven
 
 Instructions
