@@ -25,7 +25,7 @@ public class services {
 		accountList = accountDao.createAccounts();
 		Integer idOriginAccount = (Integer)jsonObject.get("fromAccount");
 		Integer idDestinyAccount = (Integer)jsonObject.get("toAccount");
-		Double amountTransaction = (Double)jsonObject.get("amount");
+		Double amountTransaction = (Double) jsonObject.getDouble("amount");
 		if(idOriginAccount != null && idOriginAccount >0) {
 			for(Account ac: accountList) {
 				Integer id = new Integer(ac.getAccountNumber());
