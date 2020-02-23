@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: diriangen
+Build-Jdk: 12.0.1
+Implementation-Title: transactions Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.rest.api.transactions
+Implementation-URL: http://maven.apache.org
+Main-Class: rest.SpringBootTransactionApplication
+Created-By: Maven Integration for Eclipse
+
